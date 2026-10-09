@@ -1,4 +1,3 @@
-# МЕМ-КОМЬЮНИТИ
 <p align="center">
   <img src="https://i.imgur.com/your-snowflake-gif.gif" width="500">
 </p>
